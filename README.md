@@ -1,6 +1,10 @@
 <h1 align="center">Awesome AndroidROM</h1>
 
+<br> <br>
+
 #### Also Visit: [Awesome-CustomROM](https://github.com/ImKKingshuk/Awesome-CustomROM) to dive into a collection of the best Custom ROMs.
+
+<br><br>
 
 |                         Icon                          |    OEM Name    |         ROM Name         | Development Status | Latest Version |                                           Website                                            |
 | :---------------------------------------------------: | :------------: | :----------------------: | :----------------: | :------------: | :------------------------------------------------------------------------------------------: |
